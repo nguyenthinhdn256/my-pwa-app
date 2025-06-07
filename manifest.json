@@ -2,12 +2,12 @@
   "name": "My Simple App",
   "short_name": "SimpleApp",
   "description": "Ứng dụng PWA đầu tiên của tôi",
-  "start_url": "/",
+  "start_url": "/my-pwa-app/",
   "display": "standalone",
   "background_color": "#667eea",
   "theme_color": "#2196F3",
   "orientation": "portrait",
-  "scope": "/",
+  "scope": "/my-pwa-app/",
   "lang": "vi",
   "icons": [
     {
